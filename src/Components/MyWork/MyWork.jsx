@@ -3,7 +3,7 @@ import './MyWork.css';
 import theme_pattern from '../../assets/theme_pattern.svg';
 import mywork_data from '../../assets/mywork_data';
 import arrow_icon from '../../assets/arrow_icon.svg';
-import Modal from '../Modal/Modal'; // Import the modal
+import Modal from '../modal/Modal'; // Import the modal
 
 const MyWork = () => {
   const [showModal, setShowModal] = useState(false);
