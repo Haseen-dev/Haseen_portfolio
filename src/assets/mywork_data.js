@@ -13,7 +13,7 @@ const mywork_data = [
       "Developed a secure back-end API for a blog platform, incorporating JWT authentication and authorization for secure access management.",
     w_techStack: "Node.js, Express, MongoDB, JWT (JSON Web Token), Nodemailer",
     w_img: project1_img,
-    w_github: "https://github.com/Haseen-dev/Projectnew.git",
+    w_github: "https://github.com/Haseen-dev/RestApi_Blog.git",
   },
   {
     w_no: 2,
