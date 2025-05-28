@@ -63,11 +63,11 @@ const Contact = () => {
             </div>
             <div className="contact-detail">
                 <img src={call_icon} alt="" />
-                <p>+94 771534707</p>
+                <p>+971 507632775</p>
             </div>
             <div className="contact-detail">
                 <img src={location_icon} alt="" />
-                <p>Batticaloa,Sri Lanka</p>
+                <p>Al-Karama,Dubai,UAE</p>
             </div>
           </div>
         </div>
