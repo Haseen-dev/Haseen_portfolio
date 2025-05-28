@@ -2,7 +2,7 @@ import React from "react";
 import "./Hero.css";
 import pro from "../../assets/IMG_4681.jpg";
 import { Link } from "react-scroll";
-import resume from '../../assets/HaseenLast.pdf'
+import resume from '../../assets/HaseenResumePhoto2.pdf'
 const Hero = () => {
   return (
     <div id="home" className="hero">
