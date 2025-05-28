@@ -31,28 +31,28 @@ const About = () => {
 
           <div className="about-skills">
             <div className="about-skill">
-              <p>HTML & CSS</p>
+              <p>HTML & CSS(Tailwind CSS,Bootstrap)</p>
               <hr style={{ width: "90%" }} />
             </div>
             <div className="about-skill">
-              <p>Tailwind CSS</p>
-              <hr style={{ width: "50%" }} />
+              <p>JQuery</p>
+              <hr style={{ width: "70%" }} />
             </div>
             <div className="about-skill">
               <p>JavaScript</p>
-              <hr style={{ width: "60%" }} />
-            </div>
-            <div className="about-skill">
-              <p>JQuery</p>
-              <hr style={{ width: "65%" }} />
-            </div>
-            <div className="about-skill">
-              <p>MySQL & MongoDB</p>
               <hr style={{ width: "75%" }} />
             </div>
             <div className="about-skill">
-              <p>MERN & MEAN Stack</p>
+              <p>MySQL & MongoDB</p>
+              <hr style={{ width: "65%" }} />
+            </div>
+            <div className="about-skill">
+              <p>Next.js</p>
               <hr style={{ width: "50%" }} />
+            </div>
+            <div className="about-skill">
+              <p>MERN & MEAN Stack</p>
+              <hr style={{ width: "70%" }} />
             </div>
             <div className="about-skill">
               <p>JAVA</p>
