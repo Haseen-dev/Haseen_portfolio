@@ -6,7 +6,7 @@ const Services_Data = [
     },
     {
         s_no:"02",
-        s_name:"Web Development",
+        s_name:"Web Development & SEO Optimization",
         s_desc:"Building robust and scalable web applications using the latest technologies to enhance user experience."
     },
     {
@@ -16,8 +16,8 @@ const Services_Data = [
     },
     {
         s_no:"04",
-        s_name:"SEO Optimization:",
-        s_desc:"Implementing effective strategies to improve your website’s visibility and ranking on search engines."
+        s_name:"Data Analyst",
+        s_desc:"Transforming raw data into actionable insights through statistical techniques, data visualization, and reporting to support strategic business decisions and performance optimization."
     },
     {
         s_no:"05",
