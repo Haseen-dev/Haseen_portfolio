@@ -11,8 +11,7 @@ const Footer = () => {
           <img src={logo} alt="" />
           {/* <img src={theme_pattern} alt="" /> */}
           <p>
-            I am Full Stack Developer from, SRI LANKA with 1.5 years of
-            experince in companies like Wavenet, Aadhira Holdings, Pixecom
+              I am a Full Stack Developer currently based in Dubai, originally from Sri Lanka, with 4+ years of professional experience. I have contributed to a wide range of projects at companies like Wavenet, Pixecom, and VeYE Cloud Solutions, specializing in scalable ERP systems, business automation tools, and cloud-based web applications.
           </p>
         </div>
         <div className="footer-top-right">
