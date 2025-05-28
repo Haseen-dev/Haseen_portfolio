@@ -16,21 +16,17 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              I’m Mohamed Haseen, a dedicated full-stack developer with a focus
-              on creating efficient, user-centered applications. With a strong
-              foundation in PHP, Yii, and the MERN stack, I have gained hands-on
-              experience working on impactful projects, from enhancing the
-              Operations Assistance Portal at Wavenet to building tailored
-              business solutions at Pixecom.
-            </p>
+  I’m Mohamed Haseen, a dedicated full-stack developer based in Dubai, with a strong focus on building efficient, user-centered web applications. My technical stack includes PHP, Laravel, Yii, and the MERN stack, and I bring hands-on experience from diverse projects across industries.
+</p>
 
-            <p>
-              My approach blends technical precision with a commitment to
-              quality, ensuring each solution meets real-world needs. I’m
-              passionate about learning and continuously refining my skills, and
-              I’m eager to bring my expertise to teams that value innovation and
-              growth.
-            </p>
+<p>
+  At VeYE Cloud Solutions, I developed a full-stack ERP system with modules for family management, subscriptions, and cloud deployment. Before that, at Pixecom, I built tailored business software and process automation tools. My journey started at Wavenet, where I contributed to optimizing the Operations Assistance Portal.
+</p>
+
+<p>
+  I approach every project with technical precision and a strong commitment to quality. I’m passionate about continuous learning, clean UI/UX, and contributing to teams that value innovation and impact. I'm eager to apply my skills to create meaningful software solutions in dynamic environments.
+</p>
+
           </div>
 
           <div className="about-skills">
