@@ -11,7 +11,7 @@ const Hero = () => {
         style={{ backgroundImage: `url(${pro})` }}
       ></div>
       <h1>
-        <span>I'm Haseen,</span> Full Stack Developer based in Sri Lanka.
+        <span>I'm Haseen,</span> Full Stack Developer currently based in Dubai.
       </h1>
       {/* <p>
         With a Bachelor’s degree in Computer Science and hands-on experience
@@ -24,11 +24,9 @@ const Hero = () => {
         a valuable addition to any growth-focused team.
       </p> */}
       <p>
-        As a full-stack developer skilled in PHP, Yii, and the MERN stack, I
-        specialize in building impactful applications. At Wavenet, I enhanced
-        the Operations Assistance Portal, focusing on performance and usability.
-        Currently at Pixecom, I design tailored business solutions and automate
-        processes, ensuring efficiency and quality across projects.
+      with a strong background in building responsive and scalable web applications. I specialize in PHP, Laravel, and the MERN stack (MongoDB, Express, React, Node.js), and have hands-on experience delivering impactful solutions across various domains.
+At VeYE Cloud Solutions, I developed a full-stack ERP system for masjid administration, including subscription and family management modules, SMS payment notifications, and cloud deployment via AWS. Prior to that, at Pixecom, I focused on crafting tailored business software and automating workflows to improve operational efficiency. Earlier, at Wavenet, I enhanced the Operations Assistance Portal using the Yii framework, emphasizing performance and user experience.
+I’m passionate about clean UI/UX, efficient backend systems, and contributing to projects that make a meaningful impact. Currently, I’m open to new opportunities where I can continue to grow and deliver high-quality digital solutions.
       </p>
       <div className="hero-action">
         <div className="hero-connect">
