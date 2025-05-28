@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import pro from "../../assets/photo_2025-04-05_13-42-11.jpg";
+import pro from "../../assets/newProfile.jpg";
 import { Link } from "react-scroll";
 import resume from '../../assets/HaseenResumePhoto2.pdf'
 const Hero = () => {
