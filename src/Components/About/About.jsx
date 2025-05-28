@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import theme_pattern from "../../assets/theme_pattern.svg";
-import pro from "../../assets/IMG_0567.JPG";
+import pro from "../../assets/photo_2025-04-05_13-42-11.JPG";
 const About = () => {
   return (
     <div id="about" className="About">
